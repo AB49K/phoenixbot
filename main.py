@@ -27,7 +27,7 @@ who = ['Bush', 'Obama', 'The government', 'The aliens', 'The Russians', 'The Fre
 action = ['did', 'caused', 'planned', 'was behind', 'helped with', 'masterminded', 'faked', 'lied about']
 
 what = ['the moon landing', '9/11', '7/11', 'water gate', 'your mom', 'the Titanic\'s sinking',
-        'the faked moon landing', 'the NSA', 'PigGate']
+        'the faked moon landing', 'the NSA', 'PigGate', 'Nikola Tesla\'s arrest']
 
 crashes = ['segfaults and crashes',
            'bluescreens',
@@ -58,7 +58,7 @@ def volvojoke():
 
 
 def conspiracy():
-    return who[random.randint(0, 20)] + " " + action[random.randint(0, 7)] + " " + what[random.randint(0, 8)] + "!"
+    return who[random.randint(0, 20)] + " " + action[random.randint(0, 7)] + " " + what[random.randint(0, 9)] + "!"
 
 
 def imply():
@@ -78,4 +78,5 @@ while True:
     if_command(command_char + "conspiracy", conspiracy())
     if_command(command_char + "crash", crash())
     if_command(command_char + "implying", imply())
+    if_command(command_char + "source", "https://github.com/whitephoenix0/phoenixbot")
     if_command(command_char + "help", "rtfm_test, volvojoke, conspiracy, crash, implying, help")
