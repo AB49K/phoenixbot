@@ -12,6 +12,9 @@ class IRC:
     def send(self, chan, msg):
         self.irc.send(b"PRIVMSG " + chan + b" " + msg + b"\r\n")
 
+    def send_action(self, chan, msg):
+        self.irc.send(b"PRIVMSG " + chan +b" " + b":\x01ACTION " + msg + b"\x01\n")
+
     def connect(self, server, channel, botnick):
         print("connecting to: " + server)
         self.irc.connect((server, 6667))
