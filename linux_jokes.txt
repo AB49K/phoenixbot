@@ -1,0 +1,12 @@
+Linux is user-friendly; its just picky about who its friends are.
+There are two major products of Berkeley. LSD and UNIX. Probably not a coincidence.
+Heres a nickel kid. Get yourself a better computer.
+stop@hammertime~$ touch /this touch: cannot touch "/this": Permission denied.
+rm -rf /bin/laden
+chown -R us ./allyourbase
+touch /woman touch: cannot touch woman: Permission denied
+/home is where the /heart is.
+I want to dress up as a UDP packet for Halloween but I dont know if anyone will get it.
+There is a Linux-themed resturaunt if you ask for a Big Mac theyll reply "FF:FF:FF:FF:FF:FF
+make love; Make: Dont know how to make love. Stop.
+man: why did you get a divorce?; man:: Too many arguments.

@@ -1,0 +1,12 @@
+segfaults and crashes
+bluescreens
+has his ram burn out
+gets a kernel panic
+Messes up pkill and crashes
+gets a fatal null pointer exception
+dies at the hands of a memory leak
+breaks for no reason
+crashes from crappy programming
+crashes after something goes wrong in factoryfactoryfactories.java
+gets an off-by-one error
+ponders whether his creator\s choice to let him run pkill was a good idea 

@@ -1,0 +1,13 @@
+ 
+Arch
+Sabayon
+Gentoo
+Ubuntu
+Fedora
+Debian
+Chakra
+Void
+Alpine
+NixOS
+CentOS
+OpenSuse
